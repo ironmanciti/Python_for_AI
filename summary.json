@@ -1,0 +1,25 @@
+{
+  "total_responses": 50,
+  "average_score": 3.74,
+  "categories": {
+    "제품": {
+      "count": 24,
+      "avg": 3.83
+    },
+    "배송": {
+      "count": 14,
+      "avg": 3.79
+    },
+    "서비스": {
+      "count": 12,
+      "avg": 3.58
+    }
+  },
+  "top_keywords": [
+    "배송",
+    "품질",
+    "좋아요",
+    "만족",
+    "친절"
+  ]
+}

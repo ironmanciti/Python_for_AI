@@ -1,0 +1,3 @@
+#project.toml
+[tool.jupytext]
+formats = "ipynb,py:percent"

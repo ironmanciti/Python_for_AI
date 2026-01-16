@@ -1,0 +1,63 @@
+{
+  "title": "설문 분석 결과 요약",
+  "generated_at": "2025-12-29 07:43:58",
+  "total_responses": 10,
+  "average_score": 3.6,
+  "category_stats": {
+    "제품": {
+      "count": 4,
+      "avg_score": 4.0
+    },
+    "서비스": {
+      "count": 3,
+      "avg_score": 3.67
+    },
+    "배송": {
+      "count": 3,
+      "avg_score": 3.0
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "만족",
+      "count": 2
+    },
+    {
+      "keyword": "불만",
+      "count": 2
+    },
+    {
+      "keyword": "품질이",
+      "count": 1
+    },
+    {
+      "keyword": "좋습니다",
+      "count": 1
+    },
+    {
+      "keyword": "친절한",
+      "count": 1
+    },
+    {
+      "keyword": "응대",
+      "count": 1
+    },
+    {
+      "keyword": "감사",
+      "count": 1
+    },
+    {
+      "keyword": "기대",
+      "count": 1
+    },
+    {
+      "keyword": "이하",
+      "count": 1
+    },
+    {
+      "keyword": "실망",
+      "count": 1
+    }
+  ],
+  "notes": "Day1 분석 결과입니다. Day2에서 이 데이터를 활용합니다."
+}
